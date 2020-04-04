@@ -1,8 +1,8 @@
 'use strict'
 
 import {ENline1, ENline2, ENline3, ENline4, line5, RUline1, RUline2, RUline3,
-   RUline4, AllCodesAndKeys, codesArray, buttonsLength} from './consts.js';
-   
+  RUline4, AllCodesAndKeys, codesArray, buttonsLength} from './consts.js';
+
 class Keyboards {
   constructor() {
     this.virtualDisplay = document.createElement('div');
